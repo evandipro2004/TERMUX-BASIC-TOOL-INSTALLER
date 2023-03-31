@@ -16,4 +16,12 @@ pkg install git
 pkg install python 
 
 
-git clone 
+git clone https://github.com/evandipro2004/TERMUX-BASIC-TOOL-INSTALLER
+
+
+cd TERMUX-BASIC-TOOL-INSTALLER
+
+
+python tinstaller.py
+
+
